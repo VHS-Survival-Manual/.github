@@ -1,4 +1,6 @@
-# **VHSchool Survival Manual 组织介绍**
+# **VHS Survival Manual 组织介绍**
+
+![title](../img/title.jpeg)
 
 ## **我们的想法、愿望与理想**
 

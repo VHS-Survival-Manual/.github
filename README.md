@@ -13,6 +13,6 @@
 - **653883131@qq.com**
 <br>
 
-![footer](footer.jpeg)
+![footer](./img/footer.jpeg)
 <hr>
 <span style="font-size: small">该图片（footer.jpeg）仅用于 .github 储存库中</span>
