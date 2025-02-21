@@ -2,6 +2,10 @@
 
 ![title](../img/title.jpeg)
 
+**最新说明**
+
+作者们都开学了
+
 ## **我们的想法、愿望与理想**
 
 在 **Github** 上创建一个储存库并不是什么罕见的事情，而我的项目更是一个连自述文件（README.md）都没写完的储存库,
@@ -35,5 +39,5 @@
 
 - **VHSS Manual** 项目说明：[《中职学生生存手册》README.md](https://github.com/organizations/VHSchool-Survival-Manual)
 - **.github** 项目说明：[组织首页介绍](https://github.com/VHS-Survival-Manual)
-- **VHS 教程** 项目说明：未来推出
-
+- **VHS 教程** 项目说明：[README](https://github.com/VHS-Survival-Manual/our-tutorials)
+- **VHSS-manual.github.io**项目说明：将作为我们的官方网站
